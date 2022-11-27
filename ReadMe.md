@@ -1,4 +1,8 @@
 # 💫 About Me:
+A third year student of Industrial Engineering bachelor program at Telkom University who likes to build connection with other people and developing her skills through projects and research.
+
+Have high motivation to learn Web development.
+
 💻I'm currently learn Laravel API and Flutter
 
 
